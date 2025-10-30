@@ -139,9 +139,10 @@ Caio de Oliveira Macedo
 
 ## 📫 Contato
 
-📎 [**LinkedIn**](https://www.linkedin.com/in/caiomacedo-dev/)  
-💻 [**Portfólio**](https://caiomacedo10.github.io/Portfolio-Caio-Macedo/)  
-🐙 [**GitHub**](https://github.com/caiomacedo10)
+- [📎 LinkedIn](https://www.linkedin.com/in/caiomacedo-dev/)
+- [💻 Portfólio](https://caiomacedo10.github.io/Portfolio-Caio-Macedo/)
+- [🐙 GitHub](https://github.com/caiomacedo10)
+
 
 🧠 Agradecimentos
 Projeto desenvolvido com base no curso DevClub, ministrado por Rodolfo Mori, com foco em desenvolvimento Full Stack (Node.js +
