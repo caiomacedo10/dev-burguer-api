@@ -8,7 +8,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Yup](https://img.shields.io/badge/Yup-00C58E?style=for-the-badge)
 ![Biome](https://img.shields.io/badge/Biome-333?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-EM%20DESENVOLVIMENTO-yellow?style=for-the-badge)
+
 
 ---
 
