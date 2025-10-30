@@ -87,8 +87,6 @@ devburger-api/
 ├── package.json
 └── README.md
 
-yaml
-Copiar código
 
 ---
 
