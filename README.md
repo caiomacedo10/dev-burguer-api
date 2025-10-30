@@ -139,9 +139,10 @@ Caio de Oliveira Macedo
 
 ## 📫 Contato
 
-📎 **LinkedIn:** [linkedin.com/in/caiomacedo-dev](https://www.linkedin.com/in/caiomacedo-dev/)  
-💻 **Portfólio:** [caiomacedo10.github.io/Portfolio-Caio-Macedo](https://caiomacedo10.github.io/Portfolio-Caio-Macedo/)  
-🐙 **GitHub:** [github.com/caiomacedo10](https://github.com/caiomacedo10)
+📎 LinkedIn: www.linkedin.com/in/caiomacedo-dev  
+💻 Portfólio: caiomacedo10.github.io/Portfolio-Caio-Macedo  
+🐙 GitHub: github.com/caiomacedo10
+
 
 
 
