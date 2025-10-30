@@ -139,9 +139,9 @@ Caio de Oliveira Macedo
 
 ## 📫 Contato
 
-- [📎 LinkedIn](https://www.linkedin.com/in/caiomacedo-dev/)
-- [💻 Portfólio](https://caiomacedo10.github.io/Portfolio-Caio-Macedo/)
-- [🐙 GitHub](https://github.com/caiomacedo10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Caio%20Macedo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/caiomacedo-dev/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-Caio%20Macedo-9cf?style=flat&logo=vercel)](https://caiomacedo10.github.io/Portfolio-Caio-Macedo/)
+[![GitHub](https://img.shields.io/badge/GitHub-caiomacedo10-black?style=flat&logo=github)](https://github.com/caiomacedo10)
 
 
 🧠 Agradecimentos
