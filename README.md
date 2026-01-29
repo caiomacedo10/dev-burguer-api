@@ -1,4 +1,4 @@
-# 🍔 DevBurger API
+# DevBurger API
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -12,7 +12,7 @@
 
 ---
 
-## 📖 Sobre o projeto
+## Sobre o projeto
 
 O **DevBurger API** é o back-end de um sistema completo de pedidos e gestão de produtos desenvolvido durante o curso **DevClub**.  
 Ele foi criado com **Node.js + Express**, integrando **PostgreSQL** (via Sequelize) e **MongoDB** (para logs e dados complementares), além de autenticação **JWT**, **upload de imagens com Multer**, e **validação de dados com Yup**.
@@ -21,7 +21,7 @@ Essa API serve como base para o front-end do **DevBurger**, uma aplicação de h
 
 ---
 
-## 🚀 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - **Node.js** — ambiente de execução JavaScript no servidor  
 - **Express** — framework minimalista para criação das rotas e middlewares  
@@ -37,28 +37,28 @@ Essa API serve como base para o front-end do **DevBurger**, uma aplicação de h
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
-✅ **Usuários**
+ **Usuários**
 - Cadastro e autenticação de usuários com criptografia de senha  
 - Login com geração de token JWT  
 - Proteção de rotas autenticadas  
 
-✅ **Categorias**
+ **Categorias**
 - Criação, listagem, atualização e exclusão de categorias  
 - Upload de imagens de categorias  
 
-✅ **Produtos**
+ **Produtos**
 - CRUD completo (Create, Read, Update, Delete)  
 - Associação entre produtos e categorias  
 - Upload e exibição de imagens  
 
-✅ **Pedidos**
+ **Pedidos**
 - Criação de pedidos com múltiplos produtos  
 - Relacionamento com usuários  
 - Cálculo automático do valor total  
 
-✅ **Outros recursos**
+ **Outros recursos**
 - Tratamento de erros padronizado  
 - Validação completa de inputs  
 - Conexão com múltiplos bancos (PostgreSQL + MongoDB)  
@@ -67,7 +67,7 @@ Essa API serve como base para o front-end do **DevBurger**, uma aplicação de h
 
 ---
 
-## 📁 Estrutura do projeto
+##  Estrutura do projeto
 
 devburger-api/
 ├── src/
@@ -90,7 +90,7 @@ devburger-api/
 
 ---
 
-## 🔑 Variáveis de ambiente
+##  Variáveis de ambiente
 
 Crie um arquivo `.env` na raiz do projeto e adicione as seguintes variáveis:
 
@@ -113,45 +113,18 @@ JWT_EXPIRES_IN=7d
 MONGO_URI=mongodb://localhost:27017/devburguer
 
 
-🧠 Como rodar o projeto localmente
-1️⃣ Clonar o repositório
-bash
-Copiar código
-git clone https://github.com/caiomacedo10/devburger-api.git
-cd devburger-api
-2️⃣ Instalar as dependências
-bash
-Copiar código
-pnpm install
-3️⃣ Rodar o servidor
-bash
-Copiar código
-pnpm dev
-4️⃣ Acessar no navegador
-arduino
-Copiar código
-http://localhost:3001
-
-
-🧑‍💻 Autor
+Autor
 Caio de Oliveira Macedo
-💼 Desenvolvedor Full Stack em formação — apaixonado por tecnologia, APIs e soluções escaláveis.
+Desenvolvedor Full Stack em formação — apaixonado por tecnologia, APIs e soluções escaláveis.
 
-## 📫 Contato
+## Contato
 
-📎 LinkedIn: www.linkedin.com/in/caiomacedo-dev  
-💻 Portfólio: caiomacedo10.github.io/Portfolio-Caio-Macedo  
-🐙 GitHub: github.com/caiomacedo10
-
-
+LinkedIn: www.linkedin.com/in/caiomacedo-dev  
+Portfólio: caiomacedo10.github.io/Portfolio-Caio-Macedo  
+GitHub: github.com/caiomacedo10
 
 
-🧠 Agradecimentos
-Projeto desenvolvido com base no curso DevClub, ministrado por Rodolfo Mori, com foco em desenvolvimento Full Stack (Node.js +
-React).
 
-💬 “A melhor forma de aprender é construindo algo do zero. O DevBurger é o reflexo de cada linha de código aprendida,
-testada e aprimorada.”
 
 
 
